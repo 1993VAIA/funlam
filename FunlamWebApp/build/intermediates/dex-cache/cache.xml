@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\classes-5a3030cdcbaa6ed797edee5c46f770fa1e97b91e.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\picasso-2.3.2-8873612417ce88d64bf20a96bfb23f26335c69ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-43f57dbede831eb8daca036b293c5dbf0c72f44a.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\classes-ed8001745d55c6d83b2c1f0451e30449fb037ea5.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-1420fd8eba2cc83b86531aece9a6b765d3ffc4f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\classes-4b080c3a035db00a84aa7a1f8100d43e268f6823.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-2.5.8-jar-with-dependencies-dabfc65789df2594d206d6e8bf82e65f81bd4d40.jar" />
+    </item>
+    <item
+        jar="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\exploded-aar\FunlamWebApp\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="645f4f8213a7ea7473e26a39fdf293135b76b34e">
+        <dex dex="C:\Users\familia\Desktop\FunlamWebApp\app\build\intermediates\pre-dexed\release\classes-a3118c992fec15f28afcef0f757681a80f61a612.jar" />
+    </item>
+
+</items>
